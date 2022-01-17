@@ -1,0 +1,6 @@
+name: EC2InstanceCreation
+runtime:
+  name: python
+  options:
+    virtualenv: venv
+description: Creating a EC2 Instance
