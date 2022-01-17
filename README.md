@@ -1,3 +1,4 @@
 # PulumiLearn
 
-pulumi new aws-python
+* pulumi new aws-python
+* pulumi up
